@@ -1,3 +1,4 @@
+-----------------------------------------------------------------------------------------------------------
 # Auto Open/Close Markdown
 
 Opens Markdown Preview for you so you don't have to press `Ctrl+K V` every time
